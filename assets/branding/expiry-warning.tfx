@@ -1,0 +1,13 @@
+<<$clear>>
+[43;30;1m
+
+                                                                            
+                    EXPIRY WARNING                                        
+                                                                            
+                    User: <<$user.Username>>                              
+                    Plan expires in: <<$user.Expiry>>                     
+                                                                            
+                    Contact an administrator to renew access.             
+                                                                            
+[0m
+<<$sleep(5000)>>

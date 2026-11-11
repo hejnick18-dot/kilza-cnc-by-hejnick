@@ -1,0 +1,16 @@
+<<$clear>>
+  [38;2;128;128;128m│ [38;2;108;61;255mhelp[97m     - displays all commands list
+  [38;2;128;128;128m│ [38;2;108;61;255mmethods[97m  - displays your methods
+  [38;2;128;128;128m│ [38;2;108;61;255mclear[97m    - clears screen
+  [38;2;128;128;128m│ [38;2;108;61;255mplan[97m     - displays account details
+  [38;2;128;128;128m│ [38;2;108;61;255mlookup[97m   - ip/url lookup the provided host
+  [38;2;128;128;128m│ [38;2;108;61;255mcfx[97m      - cfx lookup
+  [38;2;128;128;128m│ [38;2;108;61;255mpaping[97m   - tcp pings the provided ip
+  [38;2;128;128;128m│ [38;2;108;61;255musers[97m    - users management
+  [38;2;128;128;128m│ [38;2;108;61;255meditall[97m  - edit all users at once
+  [38;2;128;128;128m│ [38;2;108;61;255mcredits[97m  - displays credits of cnc
+  [38;2;128;128;128m│ [38;2;108;61;255mpasswd[97m   - change password
+  [38;2;128;128;128m│ [38;2;108;61;255mexit[97m     - exits out of the cnc
+  [38;2;128;128;128m│ [38;2;108;61;255mlogs[97m     - logs management
+  [38;2;128;128;128m│ [38;2;108;61;255mtoggle[97m   - disable and enable attacks
+  [38;2;128;128;128m│ [38;2;108;61;255mongoing[97m  - display ongoing attacks

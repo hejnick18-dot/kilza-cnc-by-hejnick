@@ -1,0 +1,1912 @@
+{
+  "Omolon": {
+    "from_color": "#091E3A",
+    "to_color": "#2D9EE0",
+    "background": false
+  },
+  "Farhan": {
+    "from_color": "#9400D3",
+    "to_color": "#4B0082",
+    "background": false
+  }, 
+  "Purple": {
+    "from_color": "#c84e89",
+    "to_color": "#F15F79",
+    "background": false
+  },
+  "Ibtesam": {
+    "from_color": "#00F5A0",
+    "to_color": "#00D9F5",
+    "background": false
+  },
+  "Radioactive Heat": {
+    "from_color": "#F7941E",
+    "to_color": "#72C6EF",
+    "background": false
+  },
+  "WhiteBG": {
+    "from_color": "#FFFFFF",
+    "to_color": "#FFFFFF",
+    "background": true
+  }, 
+  "The Sky And The Sea": {
+    "from_color": "#F7941E",
+    "to_color": "#004E8F",
+    "background": false
+  },
+  "From Ice To Fire": {
+    "from_color": "#72C6EF",
+    "to_color": "#004E8F",
+    "background": false
+  },
+  "Blue & Orange": {
+    "from_color": "#FD8112",
+    "to_color": "#0085CA",
+    "background": false
+  },
+  "Purple Dream": {
+    "from_color": "#bf5ae0",
+    "to_color": "#a811da",
+    "background": false
+  },
+  "Blu": {
+    "from_color": "#00416A",
+    "to_color": "#E4E5E6",
+    "background": false
+  },
+  "Summer Breeze": {
+    "from_color": "#fbed96",
+    "to_color": "#abecd6",
+    "background": false
+  },
+  "Ver": {
+    "from_color": "#FFE000",
+    "to_color": "#799F0C",
+    "background": false
+  },
+  "Ver Black": {
+    "from_color": "#F7F8F8",
+    "to_color": "#ACBB78",
+    "background": false
+  },
+  "Combi": {
+    "from_color": "#00416A",
+    "to_color": "#FFE000",
+    "background": true
+  },
+  "Anwar": {
+    "from_color": "#334d50",
+    "to_color": "#cbcaa5",
+    "background": false
+  },
+  "Bluelagoo": {
+    "from_color": "#0052D4",
+    "to_color": "#4364F7",
+    "background": false
+  },
+  "Lunada": {
+    "from_color": "#5433FF",
+    "to_color": "#A5FECB",
+    "background": false
+  },
+  "Reaqua": {
+    "from_color": "#799F0C",
+    "to_color": "#ACBB78",
+    "background": false
+  },
+  "Mango": {
+    "from_color": "#ffe259",
+    "to_color": "#ffa751",
+    "background": false
+  },
+  "Bupe": {
+    "from_color": "#00416A",
+    "to_color": "#E4E5E6",
+    "background": false
+  },
+  "Rea": {
+    "from_color": "#FFE000",
+    "to_color": "#799F0C",
+    "background": false
+  },
+  "Windy": {
+    "from_color": "#acb6e5",
+    "to_color": "#86fde8",
+    "background": false
+  },
+  "Royal Blue": {
+    "from_color": "#536976",
+    "to_color": "#292E49",
+    "background": false
+  },
+  "Royal Blue + Petrol": {
+    "from_color": "#BBD2C5",
+    "to_color": "#536976",
+    "background": false
+  },
+  "Copper": {
+    "from_color": "#B79891",
+    "to_color": "#94716B",
+    "background": false
+  },
+  "Anamnisar": {
+    "from_color": "#9796f0",
+    "to_color": "#fbc7d4",
+    "background": false
+  },
+  "Petrol": {
+    "from_color": "#BBD2C5",
+    "to_color": "#536976",
+    "background": false
+  },
+  "Sky": {
+    "from_color": "#076585",
+    "to_color": "#fff",
+    "background": false
+  },
+  "Sel": {
+    "from_color": "#00467F",
+    "to_color": "#A5CC82",
+    "background": false
+  }, 
+  "Afternoon": {
+    "from_color": "#000C40",
+    "to_color": "#607D8B",
+    "background": false
+  },
+  "Skyline": {
+    "from_color": "#1488CC",
+    "to_color": "#2B32B2",
+    "background": false
+  },
+  "DIMIGO": {
+    "from_color": "#ec008c",
+    "to_color": "#fc6767",
+    "background": false
+  },
+  "Purple Love": {
+    "from_color": "#cc2b5e",
+    "to_color": "#753a88",
+    "background": false
+  },
+  "Sexy Blue": {
+    "from_color": "#2193b0",
+    "to_color": "#6dd5ed",
+    "background": false
+  },
+  "Blooker20": {
+    "from_color": "#e65c00",
+    "to_color": "#F9D423",
+    "background": false
+  },
+  "Sea Blue": {
+    "from_color": "#2b5876",
+    "to_color": "#4e4376",
+    "background": false
+  },
+  "Nimvelo": {
+    "from_color": "#314755",
+    "to_color": "#26a0da",
+    "background": false
+  },
+  "Hazel": {
+    "from_color": "#77A1D3",
+    "to_color": "#79CBCA",
+    "background": false
+  },
+  "Noon to Dusk": {
+    "from_color": "#ff6e7f",
+    "to_color": "#bfe9ff",
+    "background": false
+  },
+  "YouTube": {
+    "from_color": "#e52d27",
+    "to_color": "#b31217",
+    "background": false
+  },
+  "Cool Brown": {
+    "from_color": "#603813",
+    "to_color": "#b29f94",
+    "background": false
+  },
+  "Harmonic Energy": {
+    "from_color": "#16A085",
+    "to_color": "#F4D03F",
+    "background": false
+  },
+  "Playing with Reds": {
+    "from_color": "#D31027",
+    "to_color": "#EA384D",
+    "background": false
+  },
+  "Sunny Days": {
+    "from_color": "#EDE574",
+    "to_color": "#E1F5C4",
+    "background": false
+  },
+  "Green Beach": {
+    "from_color": "#02AAB0",
+    "to_color": "#00CDAC",
+    "background": false
+  },
+  "Intuitive Purple": {
+    "from_color": "#DA22FF",
+    "to_color": "#9733EE",
+    "background": false
+  },
+  "Emerald Water": {
+    "from_color": "#348F50",
+    "to_color": "#56B4D3",
+    "background": false
+  },
+  "Lemon Twist": {
+    "from_color": "#3CA55C",
+    "to_color": "#B5AC49",
+    "background": false
+  },
+  "Monte Carlo": {
+    "from_color": "#CC95C0",
+    "to_color": "#DBD4B4",
+    "background": false
+  },
+  "Horizon": {
+    "from_color": "#003973",
+    "to_color": "#E5E5BE",
+    "background": false
+  },
+  "Rose Water": {
+    "from_color": "#E55D87",
+    "to_color": "#5FC3E4",
+    "background": false
+  },
+  "Frozen": {
+    "from_color": "#403B4A",
+    "to_color": "#E7E9BB",
+    "background": false
+  },
+  "Mango Pulp": {
+    "from_color": "#F09819",
+    "to_color": "#EDDE5D",
+    "background": false
+  },
+  "Bloody Mary": {
+    "from_color": "#FF512F",
+    "to_color": "#DD2476",
+    "background": false
+  },
+  "Aubergine": {
+    "from_color": "#AA076B",
+    "to_color": "#61045F",
+    "background": false
+  },
+  "Aqua Marine": {
+    "from_color": "#1A2980",
+    "to_color": "#26D0CE",
+    "background": false
+  },
+  "Sunrise": {
+    "from_color": "#FF512F",
+    "to_color": "#F09819",
+    "background": false
+  },
+  "Purple Paradise": {
+    "from_color": "#1D2B64",
+    "to_color": "#F8CDDA",
+    "background": false
+  },
+  "Stripe": {
+    "from_color": "#1FA2FF",
+    "to_color": "#A6FFCB",
+    "background": false
+  },
+  "Sea Weed": {
+    "from_color": "#4CB8C4",
+    "to_color": "#3CD3AD",
+    "background": false
+  },
+  "Pinky": {
+    "from_color": "#DD5E89",
+    "to_color": "#F7BB97",
+    "background": false
+  },
+  "Cherry": {
+    "from_color": "#EB3349",
+    "to_color": "#F45C43",
+    "background": false
+  },
+  "Mojito": {
+    "from_color": "#1D976C",
+    "to_color": "#93F9B9",
+    "background": false
+  },
+  "Juicy Orange": {
+    "from_color": "#FF8008",
+    "to_color": "#FFC837",
+    "background": false
+  },
+  "Mirage": {
+    "from_color": "#16222A",
+    "to_color": "#3A6073",
+    "background": false
+  },
+  "Steel Gray": {
+    "from_color": "#1F1C2C",
+    "to_color": "#928DAB",
+    "background": false
+  },
+  "Kashmir": {
+    "from_color": "#614385",
+    "to_color": "#516395",
+    "background": false
+  },
+  "Electric Violet": {
+    "from_color": "#4776E6",
+    "to_color": "#8E54E9",
+    "background": false
+  },
+  "Venice Blue": {
+    "from_color": "#085078",
+    "to_color": "#85D8CE",
+    "background": false
+  },
+  "Bora Bora": {
+    "from_color": "#2BC0E4",
+    "to_color": "#EAECC6",
+    "background": false
+  },
+  "Moss": {
+    "from_color": "#134E5E",
+    "to_color": "#71B280",
+    "background": false
+  },
+  "Shroom Haze": {
+    "from_color": "#5C258D",
+    "to_color": "#4389A2",
+    "background": false
+  },
+  "Mystic": {
+    "from_color": "#757F9A",
+    "to_color": "#D7DDE8",
+    "background": false
+  },
+  "Midnight City": {
+    "from_color": "#232526",
+    "to_color": "#414345",
+    "background": false
+  },
+  "Sea Blizz": {
+    "from_color": "#1CD8D2",
+    "to_color": "#93EDC7",
+    "background": false
+  },
+  "Opa": {
+    "from_color": "#3D7EAA",
+    "to_color": "#FFE47A",
+    "background": false
+  },
+  "Titanium": {
+    "from_color": "#283048",
+    "to_color": "#859398",
+    "background": false
+  },
+  "Mantle": {
+    "from_color": "#24C6DC",
+    "to_color": "#514A9D",
+    "background": false
+  },
+  "Dracula": {
+    "from_color": "#DC2424",
+    "to_color": "#4A569D",
+    "background": false
+  },
+  "Peach": {
+    "from_color": "#ED4264",
+    "to_color": "#FFEDBC",
+    "background": false
+  },
+  "Moonrise": {
+    "from_color": "#DAE2F8",
+    "to_color": "#D6A4A4",
+    "background": false
+  },
+  "Clouds": {
+    "from_color": "#ECE9E6",
+    "to_color": "#FFFFFF",
+    "background": false
+  },
+  "Stellar": {
+    "from_color": "#7474BF",
+    "to_color": "#348AC7",
+    "background": false
+  },
+  "Bourbon": {
+    "from_color": "#EC6F66",
+    "to_color": "#F3A183",
+    "background": false
+  },
+  "Calm Darya": {
+    "from_color": "#5f2c82",
+    "to_color": "#49a09d",
+    "background": false
+  },
+  "Influenza": {
+    "from_color": "#C04848",
+    "to_color": "#480048",
+    "background": false
+  },
+  "Shrimpy": {
+    "from_color": "#e43a15",
+    "to_color": "#e65245",
+    "background": false
+  },
+  "Army": {
+    "from_color": "#414d0b",
+    "to_color": "#727a17",
+    "background": false
+  },
+  "Miaka": {
+    "from_color": "#FC354C",
+    "to_color": "#0ABFBC",
+    "background": false
+  },
+  "Pinot Noir": {
+    "from_color": "#4b6cb7",
+    "to_color": "#182848",
+    "background": false
+  },
+  "Day Tripper": {
+    "from_color": "#f857a6",
+    "to_color": "#ff5858",
+    "background": false
+  },
+  "Namn": {
+    "from_color": "#a73737",
+    "to_color": "#7a2828",
+    "background": false
+  },
+  "Blurry Beach": {
+    "from_color": "#d53369",
+    "to_color": "#cbad6d",
+    "background": false
+  },
+  "Vasily": {
+    "from_color": "#e9d362",
+    "to_color": "#333333",
+    "background": false
+  },
+  "A Lost Memory": {
+    "from_color": "#DE6262",
+    "to_color": "#FFB88C",
+    "background": false
+  },
+  "Petrichor": {
+    "from_color": "#666600",
+    "to_color": "#999966",
+    "background": false
+  },
+  "Jonquil": {
+    "from_color": "#FFEEEE",
+    "to_color": "#DDEFBB",
+    "background": false
+  },
+  "Sirius Tamed": {
+    "from_color": "#EFEFBB",
+    "to_color": "#D4D3DD",
+    "background": false
+  },
+  "Kyoto": {
+    "from_color": "#c21500",
+    "to_color": "#ffc500",
+    "background": false
+  },
+  "Misty Meadow": {
+    "from_color": "#215f00",
+    "to_color": "#e4e4d9",
+    "background": false
+  },
+  "Aqualicious": {
+    "from_color": "#50C9C3",
+    "to_color": "#96DEDA",
+    "background": false
+  },
+  "Moor": {
+    "from_color": "#616161",
+    "to_color": "#9bc5c3",
+    "background": false
+  },
+  "Almost": {
+    "from_color": "#ddd6f3",
+    "to_color": "#faaca8",
+    "background": false
+  },
+  "Forever Lost": {
+    "from_color": "#5D4157",
+    "to_color": "#A8CABA",
+    "background": false
+  },
+  "Winter": {
+    "from_color": "#E6DADA",
+    "to_color": "#274046",
+    "background": false
+  },
+  "Nelson": {
+    "from_color": "#f2709c",
+    "to_color": "#ff9472",
+    "background": false
+  },
+  "Autumn": {
+    "from_color": "#DAD299",
+    "to_color": "#B0DAB9",
+    "background": false
+  },
+  "Candy": {
+    "from_color": "#D3959B",
+    "to_color": "#BFE6BA",
+    "background": false
+  },
+  "Reef": {
+    "from_color": "#00d2ff",
+    "to_color": "#3a7bd5",
+    "background": false
+  },
+  "The Strain": {
+    "from_color": "#870000",
+    "to_color": "#190A05",
+    "background": false
+  },
+  "Dirty Fog": {
+    "from_color": "#B993D6",
+    "to_color": "#8CA6DB",
+    "background": false
+  },
+  "Earthly": {
+    "from_color": "#649173",
+    "to_color": "#DBD5A4",
+    "background": false
+  },
+  "Virgin": {
+    "from_color": "#C9FFBF",
+    "to_color": "#FFAFBD",
+    "background": false
+  },
+  "Ash": {
+    "from_color": "#606c88",
+    "to_color": "#3f4c6b",
+    "background": false
+  },
+  "Cherryblossoms": {
+    "from_color": "#FBD3E9",
+    "to_color": "#BB377D",
+    "background": false
+  },
+  "Parklife": {
+    "from_color": "#ADD100",
+    "to_color": "#7B920A",
+    "background": false
+  },
+  "Dance To Forget": {
+    "from_color": "#FF4E50",
+    "to_color": "#F9D423",
+    "background": false
+  },
+  "Starfall": {
+    "from_color": "#F0C27B",
+    "to_color": "#4B1248",
+    "background": false
+  },
+  "Red Mist": {
+    "from_color": "#000000",
+    "to_color": "#e74c3c",
+    "background": false
+  },
+  "Teal Love": {
+    "from_color": "#AAFFA9",
+    "to_color": "#11FFBD",
+    "background": false
+  },
+  "Neon Life": {
+    "from_color": "#B3FFAB",
+    "to_color": "#12FFF7",
+    "background": false
+  },
+  "Man of Steel": {
+    "from_color": "#780206",
+    "to_color": "#061161",
+    "background": false
+  },
+  "Amethyst": {
+    "from_color": "#9D50BB",
+    "to_color": "#6E48AA",
+    "background": false
+  },
+  "Cheer Up Emo Kid": {
+    "from_color": "#556270",
+    "to_color": "#FF6B6B",
+    "background": false
+  },
+  "Shore": {
+    "from_color": "#70e1f5",
+    "to_color": "#ffd194",
+    "background": false
+  },
+  "Facebook Messenger": {
+    "from_color": "#00c6ff",
+    "to_color": "#0072ff",
+    "background": false
+  },
+  "SoundCloud": {
+    "from_color": "#fe8c00",
+    "to_color": "#f83600",
+    "background": false
+  },
+  "Behongo": {
+    "from_color": "#52c234",
+    "to_color": "#061700",
+    "background": false
+  },
+  "ServQuick": {
+    "from_color": "#485563",
+    "to_color": "#29323c",
+    "background": false
+  },
+  "Friday": {
+    "from_color": "#83a4d4",
+    "to_color": "#b6fbff",
+    "background": false
+  },
+  "Martini": {
+    "from_color": "#FDFC47",
+    "to_color": "#24FE41",
+    "background": false
+  },
+  "Metallic Toad": {
+    "from_color": "#abbaab",
+    "to_color": "#ffffff",
+    "background": false
+  },
+  "Between The Clouds": {
+    "from_color": "#73C8A9",
+    "to_color": "#373B44",
+    "background": false
+  },
+  "Crazy Orange I": {
+    "from_color": "#D38312",
+    "to_color": "#A83279",
+    "background": false
+  },
+  "Hersheys": {
+    "from_color": "#1e130c",
+    "to_color": "#9a8478",
+    "background": false
+  },
+  "Talking To Mice Elf": {
+    "from_color": "#948E99",
+    "to_color": "#2E1437",
+    "background": false
+  },
+  "Purple Bliss": {
+    "from_color": "#360033",
+    "to_color": "#0b8793",
+    "background": false
+  },
+  "Predawn": {
+    "from_color": "#FFA17F",
+    "to_color": "#00223E",
+    "background": false
+  },
+  "Endless River": {
+    "from_color": "#43cea2",
+    "to_color": "#185a9d",
+    "background": false
+  },
+  "Pastel Orange at the Sun": {
+    "from_color": "#ffb347",
+    "to_color": "#ffcc33",
+    "background": false
+  },
+  "Twitch": {
+    "from_color": "#6441A5",
+    "to_color": "#2a0845",
+    "background": false
+  },
+  "Atlas": {
+    "from_color": "#FEAC5E",
+    "to_color": "#4BC0C8",
+    "background": true
+  },
+  "Instagram": {
+    "from_color": "#833ab4",
+    "to_color": "#fcb045",
+    "background": false
+  },
+  "Flickr": {
+    "from_color": "#ff0084",
+    "to_color": "#33001b",
+    "background": false
+  },
+  "Vine": {
+    "from_color": "#00bf8f",
+    "to_color": "#001510",
+    "background": false
+  },
+  "Turquoise flow": {
+    "from_color": "#136a8a",
+    "to_color": "#267871",
+    "background": false
+  },
+  "Portrait": {
+    "from_color": "#8e9eab",
+    "to_color": "#eef2f3",
+    "background": false
+  },
+  "Virgin America": {
+    "from_color": "#7b4397",
+    "to_color": "#dc2430",
+    "background": false
+  },
+  "Koko Caramel": {
+    "from_color": "#D1913C",
+    "to_color": "#FFD194",
+    "background": false
+  },
+  "Fresh Turboscent": {
+    "from_color": "#F1F2B5",
+    "to_color": "#135058",
+    "background": false
+  },
+  "Green to dark": {
+    "from_color": "#6A9113",
+    "to_color": "#141517",
+    "background": false
+  },
+  "Ukraine": {
+    "from_color": "#004FF9",
+    "to_color": "#FFF94C",
+    "background": false
+  },
+  "Curiosity blue": {
+    "from_color": "#525252",
+    "to_color": "#3d72b4",
+    "background": false
+  },
+  "Dark Knight": {
+    "from_color": "#BA8B02",
+    "to_color": "#181818",
+    "background": false
+  },
+  "Piglet": {
+    "from_color": "#ee9ca7",
+    "to_color": "#ffdde1",
+    "background": false
+  },
+  "Lizard": {
+    "from_color": "#304352",
+    "to_color": "#d7d2cc",
+    "background": false
+  },
+  "Sage Persuasion": {
+    "from_color": "#CCCCB2",
+    "to_color": "#757519",
+    "background": false
+  },
+  "Between Night and Day": {
+    "from_color": "#2c3e50",
+    "to_color": "#3498db",
+    "background": false
+  },
+  "Timber": {
+    "from_color": "#fc00ff",
+    "to_color": "#00dbde",
+    "background": false
+  },
+  "Passion": {
+    "from_color": "#e53935",
+    "to_color": "#e35d5b",
+    "background": false
+  },
+  "Clear Sky": {
+    "from_color": "#005C97",
+    "to_color": "#363795",
+    "background": false
+  },
+  "Master Card": {
+    "from_color": "#f46b45",
+    "to_color": "#eea849",
+    "background": false
+  },
+  "Back To Earth": {
+    "from_color": "#00C9FF",
+    "to_color": "#92FE9D",
+    "background": false
+  },
+  "Deep Purple": {
+    "from_color": "#673AB7",
+    "to_color": "#512DA8",
+    "background": false
+  },
+  "Little Leaf": {
+    "from_color": "#76b852",
+    "to_color": "#8DC26F",
+    "background": false
+  },
+  "Netflix": {
+    "from_color": "#8E0E00",
+    "to_color": "#1F1C18",
+    "background": false
+  },
+  "Light Orange": {
+    "from_color": "#FFB75E",
+    "to_color": "#ED8F03",
+    "background": false
+  },
+  "Green and Blue": {
+    "from_color": "#c2e59c",
+    "to_color": "#64b3f4",
+    "background": false
+  },
+  "Poncho": {
+    "from_color": "#403A3E",
+    "to_color": "#BE5869",
+    "background": false
+  },
+  "Back to the Future": {
+    "from_color": "#C02425",
+    "to_color": "#F0CB35",
+    "background": false
+  },
+  "Blush": {
+    "from_color": "#B24592",
+    "to_color": "#F15F79",
+    "background": false
+  },
+  "Inbox": {
+    "from_color": "#457fca",
+    "to_color": "#5691c8",
+    "background": false
+  },
+  "Purplin": {
+    "from_color": "#6a3093",
+    "to_color": "#a044ff",
+    "background": false
+  },
+  "Pale Wood": {
+    "from_color": "#eacda3",
+    "to_color": "#d6ae7b",
+    "background": false
+  },
+  "Haikus": {
+    "from_color": "#fd746c",
+    "to_color": "#ff9068",
+    "background": false
+  },
+  "Pizelex": {
+    "from_color": "#114357",
+    "to_color": "#F29492",
+    "background": false
+  },
+  "Joomla": {
+    "from_color": "#1e3c72",
+    "to_color": "#2a5298",
+    "background": false
+  },
+  "Christmas": {
+    "from_color": "#2F7336",
+    "to_color": "#AA3A38",
+    "background": false
+  },
+  "Minnesota Vikings": {
+    "from_color": "#5614B0",
+    "to_color": "#DBD65C",
+    "background": false
+  },
+  "Miami Dolphins": {
+    "from_color": "#4DA0B0",
+    "to_color": "#D39D38",
+    "background": false
+  },
+  "Forest": {
+    "from_color": "#5A3F37",
+    "to_color": "#2C7744",
+    "background": false
+  },
+  "Nighthawk": {
+    "from_color": "#2980b9",
+    "to_color": "#2c3e50",
+    "background": false
+  },
+  "Superman": {
+    "from_color": "#0099F7",
+    "to_color": "#F11712",
+    "background": false
+  },
+  "Suzy": {
+    "from_color": "#834d9b",
+    "to_color": "#d04ed6",
+    "background": false
+  },
+  "Dark Skies": {
+    "from_color": "#4B79A1",
+    "to_color": "#283E51",
+    "background": false
+  },
+  "Deep Space": {
+    "from_color": "#000000",
+    "to_color": "#434343",
+    "background": false
+  },
+  "Decent": {
+    "from_color": "#4CA1AF",
+    "to_color": "#C4E0E5",
+    "background": false
+  },
+  "Colors Of Sky": {
+    "from_color": "#E0EAFC",
+    "to_color": "#CFDEF3",
+    "background": false
+  },
+  "Purple White": {
+    "from_color": "#BA5370",
+    "to_color": "#F4E2D8",
+    "background": false
+  },
+  "Ali": {
+    "from_color": "#ff4b1f",
+    "to_color": "#1fddff",
+    "background": false
+  },
+  "Alihossein": {
+    "from_color": "#f7ff00",
+    "to_color": "#db36a4",
+    "background": false
+  },
+  "Shahabi": {
+    "from_color": "#a80077",
+    "to_color": "#66ff00",
+    "background": false
+  },
+  "Red Ocean": {
+    "from_color": "#1D4350",
+    "to_color": "#A43931",
+    "background": false
+  },
+  "Tranquil": {
+    "from_color": "#EECDA3",
+    "to_color": "#EF629F",
+    "background": false
+  },
+  "Transfile": {
+    "from_color": "#16BFFD",
+    "to_color": "#CB3066",
+    "background": false
+  },
+  "Sylvia": {
+    "from_color": "#ff4b1f",
+    "to_color": "#ff9068",
+    "background": false
+  },
+  "Sweet Morning": {
+    "from_color": "#FF5F6D",
+    "to_color": "#FFC371",
+    "background": false
+  },
+  "Politics": {
+    "from_color": "#2196f3",
+    "to_color": "#f44336",
+    "background": false
+  },
+  "Bright Vault": {
+    "from_color": "#00d2ff",
+    "to_color": "#928DAB",
+    "background": false
+  },
+  "Solid Vault": {
+    "from_color": "#3a7bd5",
+    "to_color": "#3a6073",
+    "background": false
+  },
+  "Sunset": {
+    "from_color": "#0B486B",
+    "to_color": "#F56217",
+    "background": false
+  },
+  "Grapefruit Sunset": {
+    "from_color": "#e96443",
+    "to_color": "#904e95",
+    "background": false
+  },
+  "Deep Sea Space": {
+    "from_color": "#2C3E50",
+    "to_color": "#4CA1AF",
+    "background": false
+  },
+  "Dusk": {
+    "from_color": "#2C3E50",
+    "to_color": "#FD746C",
+    "background": false
+  },
+  "Minimal Red": {
+    "from_color": "#F00000",
+    "to_color": "#DC281E",
+    "background": false
+  },
+  "Royal": {
+    "from_color": "#141E30",
+    "to_color": "#243B55",
+    "background": false
+  },
+  "Mauve": {
+    "from_color": "#42275a",
+    "to_color": "#734b6d",
+    "background": false
+  },
+  "Frost": {
+    "from_color": "#000428",
+    "to_color": "#004e92",
+    "background": false
+  },
+  "Lush": {
+    "from_color": "#56ab2f",
+    "to_color": "#a8e063",
+    "background": false
+  },
+  "Firewatch": {
+    "from_color": "#cb2d3e",
+    "to_color": "#ef473a",
+    "background": false
+  },
+  "Sherbert": {
+    "from_color": "#f79d00",
+    "to_color": "#64f38c",
+    "background": false
+  },
+  "Blood Red": {
+    "from_color": "#f85032",
+    "to_color": "#e73827",
+    "background": false
+  },
+  "Sun on the Horizon": {
+    "from_color": "#fceabb",
+    "to_color": "#f8b500",
+    "background": false
+  },
+  "IIIT Delhi": {
+    "from_color": "#808080",
+    "to_color": "#3fada8",
+    "background": false
+  },
+  "Jupiter": {
+    "from_color": "#ffd89b",
+    "to_color": "#19547b",
+    "background": false
+  },
+  "50 Shades of Grey": {
+    "from_color": "#bdc3c7",
+    "to_color": "#2c3e50",
+    "background": false
+  },
+  "Dania": {
+    "from_color": "#BE93C5",
+    "to_color": "#7BC6CC",
+    "background": false
+  },
+  "Limeade": {
+    "from_color": "#A1FFCE",
+    "to_color": "#FAFFD1",
+    "background": false
+  },
+  "Disco": {
+    "from_color": "#4ECDC4",
+    "to_color": "#556270",
+    "background": false
+  },
+  "Love Couple": {
+    "from_color": "#3a6186",
+    "to_color": "#89253e",
+    "background": false
+  },
+  "Azure Pop": {
+    "from_color": "#ef32d9",
+    "to_color": "#89fffd",
+    "background": false
+  },
+  "Nepal": {
+    "from_color": "#de6161",
+    "to_color": "#2657eb",
+    "background": false
+  },
+  "Cosmic Fusion": {
+    "from_color": "#ff00cc",
+    "to_color": "#333399",
+    "background": false
+  },
+  "Snapchat": {
+    "from_color": "#fffc00",
+    "to_color": "#ffffff",
+    "background": false
+  },
+  "Ed's Sunset Gradient": {
+    "from_color": "#ff7e5f",
+    "to_color": "#feb47b",
+    "background": false
+  },
+  "Brady Brady Fun Fun": {
+    "from_color": "#00c3ff",
+    "to_color": "#ffff1c",
+    "background": false
+  },
+  "Black Rosé": {
+    "from_color": "#f4c4f3",
+    "to_color": "#fc67fa",
+    "background": false
+  },
+  "80's Purple": {
+    "from_color": "#41295a",
+    "to_color": "#2F0743",
+    "background": false
+  },
+  "Radar": {
+    "from_color": "#A770EF",
+    "to_color": "#FDB99B",
+    "background": false
+  },
+  "Ibiza Sunset": {
+    "from_color": "#ee0979",
+    "to_color": "#ff6a00",
+    "background": false
+  },
+  "Dawn": {
+    "from_color": "#F3904F",
+    "to_color": "#3B4371",
+    "background": false
+  },
+  "Mild": {
+    "from_color": "#67B26F",
+    "to_color": "#4ca2cd",
+    "background": false
+  },
+  "Vice City": {
+    "from_color": "#3494E6",
+    "to_color": "#EC6EAD",
+    "background": false
+  },
+  "Jaipur": {
+    "from_color": "#DBE6F6",
+    "to_color": "#C5796D",
+    "background": false
+  },
+  "Jodhpur": {
+    "from_color": "#9CECFB",
+    "to_color": "#0052D4",
+    "background": false
+  },
+  "Cocoaa Ice": {
+    "from_color": "#c0c0aa",
+    "to_color": "#1cefff",
+    "background": false
+  },
+  "EasyMed": {
+    "from_color": "#DCE35B",
+    "to_color": "#45B649",
+    "background": false
+  },
+  "Rose Colored Lenses": {
+    "from_color": "#E8CBC0",
+    "to_color": "#636FA4",
+    "background": false
+  },
+  "What lies Beyond": {
+    "from_color": "#F0F2F0",
+    "to_color": "#000C40",
+    "background": false
+  },
+  "Roseanna": {
+    "from_color": "#FFAFBD",
+    "to_color": "#ffc3a0",
+    "background": false
+  },
+  "Honey Dew": {
+    "from_color": "#43C6AC",
+    "to_color": "#F8FFAE",
+    "background": false
+  },
+  "Under the Lake": {
+    "from_color": "#093028",
+    "to_color": "#237A57",
+    "background": false
+  },
+  "The Blue Lagoon": {
+    "from_color": "#43C6AC",
+    "to_color": "#191654",
+    "background": false
+  },
+  "Can You Feel The Love Tonight": {
+    "from_color": "#4568DC",
+    "to_color": "#B06AB3",
+    "background": false
+  },
+  "Very Blue": {
+    "from_color": "#0575E6",
+    "to_color": "#021B79",
+    "background": false
+  },
+  "Love and Liberty": {
+    "from_color": "#200122",
+    "to_color": "#6f0000",
+    "background": false
+  },
+  "Orca": {
+    "from_color": "#44A08D",
+    "to_color": "#093637",
+    "background": false
+  },
+  "Venice": {
+    "from_color": "#6190E8",
+    "to_color": "#A7BFE8",
+    "background": false
+  },
+  "Pacific Dream": {
+    "from_color": "#34e89e",
+    "to_color": "#0f3443",
+    "background": false
+  },
+  "Learning and Leading": {
+    "from_color": "#F7971E",
+    "to_color": "#FFD200",
+    "background": false
+  },
+  "Celestial": {
+    "from_color": "#C33764",
+    "to_color": "#1D2671",
+    "background": false
+  },
+  "Purplepine": {
+    "from_color": "#20002c",
+    "to_color": "#cbb4d4",
+    "background": false
+  },
+  "Sha la la": {
+    "from_color": "#D66D75",
+    "to_color": "#E29587",
+    "background": false
+  },
+  "Mini": {
+    "from_color": "#30E8BF",
+    "to_color": "#FF8235",
+    "background": false
+  },
+  "Maldives": {
+    "from_color": "#B2FEFA",
+    "to_color": "#0ED2F7",
+    "background": false
+  },
+  "Cinnamint": {
+    "from_color": "#4AC29A",
+    "to_color": "#BDFFF3",
+    "background": false
+  },
+  "Html": {
+    "from_color": "#E44D26",
+    "to_color": "#F16529",
+    "background": false
+  },
+  "Coal": {
+    "from_color": "#EB5757",
+    "to_color": "#000000",
+    "background": false
+  },
+  "Sunkist": {
+    "from_color": "#F2994A",
+    "to_color": "#F2C94C",
+    "background": false
+  },
+  "Blue Skies": {
+    "from_color": "#56CCF2",
+    "to_color": "#2F80ED",
+    "background": false
+  },
+  "Chitty Chitty Bang Bang": {
+    "from_color": "#007991",
+    "to_color": "#78ffd6",
+    "background": false
+  },
+  "Visions of Grandeur": {
+    "from_color": "#000046",
+    "to_color": "#1CB5E0",
+    "background": false
+  },
+  "Crystal Clear": {
+    "from_color": "#159957",
+    "to_color": "#155799",
+    "background": false
+  },
+  "Mello": {
+    "from_color": "#c0392b",
+    "to_color": "#8e44ad",
+    "background": false
+  },
+  "Compare Now": {
+    "from_color": "#EF3B36",
+    "to_color": "#FFFFFF",
+    "background": false
+  },
+  "Meridian": {
+    "from_color": "#283c86",
+    "to_color": "#45a247",
+    "background": false
+  },
+  "Relay": {
+    "from_color": "#3A1C71",
+    "to_color": "#D76D77",
+    "background": false
+  },
+  "Alive": {
+    "from_color": "#CB356B",
+    "to_color": "#BD3F32",
+    "background": false
+  },
+  "Scooter": {
+    "from_color": "#36D1DC",
+    "to_color": "#5B86E5",
+    "background": false
+  },
+  "Terminal": {
+    "from_color": "#000000",
+    "to_color": "#0f9b0f",
+    "background": false
+  },
+  "Telegram": {
+    "from_color": "#1c92d2",
+    "to_color": "#f2fcfe",
+    "background": false
+  },
+  "Crimson Tide": {
+    "from_color": "#642B73",
+    "to_color": "#C6426E",
+    "background": false
+  },
+  "Socialive": {
+    "from_color": "#06beb6",
+    "to_color": "#48b1bf",
+    "background": false
+  },
+  "Subu": {
+    "from_color": "#0cebeb",
+    "to_color": "#29ffc6",
+    "background": false
+  },
+  "Broken Hearts": {
+    "from_color": "#d9a7c7",
+    "to_color": "#fffcdc",
+    "background": false
+  },
+  "Kimoby Is The New Blue": {
+    "from_color": "#396afc",
+    "to_color": "#2948ff",
+    "background": false
+  },
+  "Dull": {
+    "from_color": "#C9D6FF",
+    "to_color": "#E2E2E2",
+    "background": false
+  },
+  "Purpink": {
+    "from_color": "#7F00FF",
+    "to_color": "#E100FF",
+    "background": false
+  },
+  "Orange Coral": {
+    "from_color": "#ff9966",
+    "to_color": "#ff5e62",
+    "background": false
+  },
+  "Summer": {
+    "from_color": "#22c1c3",
+    "to_color": "#fdbb2d",
+    "background": false
+  },
+  "King Yna": {
+    "from_color": "#1a2a6c",
+    "to_color": "#fdbb2d",
+    "background": false
+  },
+  "Velvet Sun": {
+    "from_color": "#e1eec3",
+    "to_color": "#f05053",
+    "background": false
+  },
+  "Zinc": {
+    "from_color": "#ADA996",
+    "to_color": "#EAEAEA",
+    "background": false
+  },
+  "Hydrogen": {
+    "from_color": "#667db6",
+    "to_color": "#0082c8",
+    "background": false
+  },
+  "Argon": {
+    "from_color": "#03001e",
+    "to_color": "#ec38bc",
+    "background": false
+  },
+  "Lithium": {
+    "from_color": "#6D6027",
+    "to_color": "#D3CBB8",
+    "background": false
+  },
+  "Digital Water": {
+    "from_color": "#74ebd5",
+    "to_color": "#ACB6E5",
+    "background": false
+  },
+  "Orange Fun": {
+    "from_color": "#fc4a1a",
+    "to_color": "#f7b733",
+    "background": false
+  },
+  "Rainbow Blue": {
+    "from_color": "#00F260",
+    "to_color": "#0575E6",
+    "background": false
+  },
+  "Pink Flavour": {
+    "from_color": "#800080",
+    "to_color": "#ffc0cb",
+    "background": false
+  },
+  "Sulphur": {
+    "from_color": "#CAC531",
+    "to_color": "#F3F9A7",
+    "background": false
+  },
+  "Selenium": {
+    "from_color": "#3C3B3F",
+    "to_color": "#605C3C",
+    "background": false
+  },
+  "Delicate": {
+    "from_color": "#D3CCE3",
+    "to_color": "#E9E4F0",
+    "background": false
+  },
+  "Ohhappiness": {
+    "from_color": "#00b09b",
+    "to_color": "#96c93d",
+    "background": false
+  },
+  "Lawrencium": {
+    "from_color": "#0f0c29",
+    "to_color": "#24243e",
+    "background": false
+  },
+  "Relaxing red": {
+    "from_color": "#fffbd5",
+    "to_color": "#b20a2c",
+    "background": false
+  },
+  "Taran Tado": {
+    "from_color": "#23074d",
+    "to_color": "#cc5333",
+    "background": false
+  },
+  "Bighead": {
+    "from_color": "#c94b4b",
+    "to_color": "#4b134f",
+    "background": false
+  },
+  "Sublime Vivid": {
+    "from_color": "#FC466B",
+    "to_color": "#3F5EFB",
+    "background": false
+  },
+  "Sublime Light": {
+    "from_color": "#FC5C7D",
+    "to_color": "#6A82FB",
+    "background": false
+  },
+  "Pun Yeta": {
+    "from_color": "#108dc7",
+    "to_color": "#ef8e38",
+    "background": false
+  },
+  "Quepal": {
+    "from_color": "#11998e",
+    "to_color": "#38ef7d",
+    "background": false
+  },
+  "Sand to Blue": {
+    "from_color": "#3E5151",
+    "to_color": "#DECBA4",
+    "background": false
+  },
+  "Wedding Day Blues": {
+    "from_color": "#40E0D0",
+    "to_color": "#FF0080",
+    "background": false
+  },
+  "Shifter": {
+    "from_color": "#bc4e9c",
+    "to_color": "#f80759",
+    "background": false
+  },
+  "Red Sunset": {
+    "from_color": "#355C7D",
+    "to_color": "#6C5B7B",
+    "background": false
+  },
+  "Moon Purple": {
+    "from_color": "#4e54c8",
+    "to_color": "#8f94fb",
+    "background": false
+  },
+  "Pure Lust": {
+    "from_color": "#333333",
+    "to_color": "#dd1818",
+    "background": false
+  },
+  "Slight Ocean View": {
+    "from_color": "#a8c0ff",
+    "to_color": "#3f2b96",
+    "background": false
+  },
+  "eXpresso": {
+    "from_color": "#ad5389",
+    "to_color": "#3c1053",
+    "background": false
+  },
+  "Shifty": {
+    "from_color": "#636363",
+    "to_color": "#a2ab58",
+    "background": false
+  },
+  "Vanusa": {
+    "from_color": "#DA4453",
+    "to_color": "#89216B",
+    "background": false
+  },
+  "Evening Night": {
+    "from_color": "#005AA7",
+    "to_color": "#FFFDE4",
+    "background": false
+  },
+  "Magic": {
+    "from_color": "#59C173",
+    "to_color": "#5D26C1",
+    "background": false
+  },
+  "Margo": {
+    "from_color": "#FFEFBA",
+    "to_color": "#FFFFFF",
+    "background": false
+  },
+  "Blue Raspberry": {
+    "from_color": "#00B4DB",
+    "to_color": "#0083B0",
+    "background": false
+  },
+  "Citrus Peel": {
+    "from_color": "#FDC830",
+    "to_color": "#F37335",
+    "background": false
+  },
+  "Sin City Red": {
+    "from_color": "#ED213A",
+    "to_color": "#93291E",
+    "background": false
+  },
+  "Rastafari": {
+    "from_color": "#1E9600",
+    "to_color": "#FFF200",
+    "background": false
+  },
+  "Summer Dog": {
+    "from_color": "#a8ff78",
+    "to_color": "#78ffd6",
+    "background": false
+  },
+  "Wiretap": {
+    "from_color": "#8A2387",
+    "to_color": "#F27121",
+    "background": false
+  },
+  "Burning Orange": {
+    "from_color": "#FF416C",
+    "to_color": "#FF4B2B",
+    "background": false
+  },
+  "Ultra Voilet": {
+    "from_color": "#654ea3",
+    "to_color": "#eaafc8",
+    "background": false
+  },
+  "By Design": {
+    "from_color": "#009FFF",
+    "to_color": "#ec2F4B",
+    "background": false
+  },
+  "Kyoo Tah": {
+    "from_color": "#544a7d",
+    "to_color": "#ffd452",
+    "background": false
+  },
+  "Kye Meh": {
+    "from_color": "#8360c3",
+    "to_color": "#2ebf91",
+    "background": false
+  },
+  "Kyoo Pal": {
+    "from_color": "#dd3e54",
+    "to_color": "#6be585",
+    "background": false
+  },
+  "Metapolis": {
+    "from_color": "#659999",
+    "to_color": "#f4791f",
+    "background": false
+  },
+  "Flare": {
+    "from_color": "#f12711",
+    "to_color": "#f5af19",
+    "background": false
+  },
+  "Witching Hour": {
+    "from_color": "#c31432",
+    "to_color": "#240b36",
+    "background": false
+  },
+  "Azur Lane": {
+    "from_color": "#7F7FD5",
+    "to_color": "#91EAE4",
+    "background": false
+  },
+  "Neuromancer": {
+    "from_color": "#f953c6",
+    "to_color": "#b91d73",
+    "background": false
+  },
+  "Harvey": {
+    "from_color": "#1f4037",
+    "to_color": "#99f2c8",
+    "background": false
+  },
+  "Amin": {
+    "from_color": "#8E2DE2",
+    "to_color": "#4A00E0",
+    "background": false
+  },
+  "Memariani": {
+    "from_color": "#aa4b6b",
+    "to_color": "#3b8d99",
+    "background": false
+  },
+  "Yoda": {
+    "from_color": "#FF0099",
+    "to_color": "#493240",
+    "background": false
+  },
+  "Cool Sky": {
+    "from_color": "#2980B9",
+    "to_color": "#6DD5FA",
+    "background": false
+  },
+  "Dark Ocean": {
+    "from_color": "#373B44",
+    "to_color": "#4286f4",
+    "background": false
+  },
+  "Evening Sunshine": {
+    "from_color": "#b92b27",
+    "to_color": "#1565C0",
+    "background": false
+  },
+  "JShine": {
+    "from_color": "#12c2e9",
+    "to_color": "#f64f59",
+    "background": false
+  },
+  "Moonlit Asteroid": {
+    "from_color": "#0F2027",
+    "to_color": "#2C5364",
+    "background": false
+  },
+  "MegaTron": {
+    "from_color": "#C6FFDD",
+    "to_color": "#f7797d",
+    "background": false
+  },
+  "Cool Blues": {
+    "from_color": "#2193b0",
+    "to_color": "#6dd5ed",
+    "background": false
+  },
+  "Piggy Pink": {
+    "from_color": "#ee9ca7",
+    "to_color": "#ffdde1",
+    "background": false
+  },
+  "Grade Grey": {
+    "from_color": "#bdc3c7",
+    "to_color": "#2c3e50",
+    "background": false
+  },
+  "Telko": {
+    "from_color": "#F36222",
+    "to_color": "#5CB644",
+    "background": false
+  },
+  "Zenta": {
+    "from_color": "#2A2D3E",
+    "to_color": "#FECB6E",
+    "background": false
+  },
+  "Electric Peacock": {
+    "from_color": "#8a2be2",
+    "to_color": "#ccff00",
+    "background": false
+  },
+  "Under Blue Green": {
+    "from_color": "#051937",
+    "to_color": "#008793",
+    "background": false
+  },
+  "Lensod": {
+    "from_color": "#6025F5",
+    "to_color": "#FF5555",
+    "background": false
+  },
+  "Newspaper": {
+    "from_color": "#8a2be2",
+    "to_color": "#ffa500",
+    "background": false
+  },
+  "Dark Blue Gradient": {
+    "from_color": "#2774ae",
+    "to_color": "#002E5D",
+    "background": false
+  },
+  "Dark Blu Two": {
+    "from_color": "#004680",
+    "to_color": "#4484BA",
+    "background": false
+  },
+  "Lemon Lime": {
+    "from_color": "#7ec6bc",
+    "to_color": "#ebe717",
+    "background": false
+  },
+  "Beleko": {
+    "from_color": "#ff1e56",
+    "to_color": "#1e90ff",
+    "background": false
+  },
+  "Mango Papaya": {
+    "from_color": "#de8a41",
+    "to_color": "#2ada53",
+    "background": false
+  },
+  "Unicorn Rainbow": {
+    "from_color": "#f7f0ac",
+    "to_color": "#f0acf7",
+    "background": false
+  },
+  "Flame": {
+    "from_color": "#ff0000",
+    "to_color": "#fdcf58",
+    "background": false
+  },
+  "Blue Red": {
+    "from_color": "#36B1C7",
+    "to_color": "#960B33",
+    "background": false
+  },
+  "Twitter": {
+    "from_color": "#1DA1F2",
+    "to_color": "#009ffc",
+    "background": false
+  },
+  "Blooze": {
+    "from_color": "#6da6be",
+    "to_color": "#4b859e",
+    "background": false
+  },
+  "Blue Slate": {
+    "from_color": "#B5B9FF",
+    "to_color": "#2B2C49",
+    "background": false
+  },
+  "Space Light Green": {
+    "from_color": "#9FA0A8",
+    "to_color": "#5C7852",
+    "background": false
+  },
+  "Flower": {
+    "from_color": "#DCFFBD",
+    "to_color": "#CC86D1",
+    "background": false
+  },
+  "Elate The Euge": {
+    "from_color": "#8BDEDA",
+    "to_color": "#998EE0",
+    "background": false
+  },
+  "Peach Sea": {
+    "from_color": "#E6AE8C",
+    "to_color": "#A8CECF",
+    "background": false
+  },
+  "Abbas": {
+    "from_color": "#00fff0",
+    "to_color": "#0083fe",
+    "background": false
+  },
+  "Winter Woods": {
+    "from_color": "#333333",
+    "to_color": "#a2ab58",
+    "background": false
+  },
+  "Ameena": {
+    "from_color": "#0c0c6d",
+    "to_color": "#5bb226",
+    "background": false
+  },
+  "Emerald Sea": {
+    "from_color": "#05386b",
+    "to_color": "#5cdb95",
+    "background": false
+  },
+  "Bleem": {
+    "from_color": "#4284DB",
+    "to_color": "#29EAC4",
+    "background": false
+  },
+  "Coffee Gold": {
+    "from_color": "#554023",
+    "to_color": "#c99846",
+    "background": false
+  },
+  "Compass": {
+    "from_color": "#516b8b",
+    "to_color": "#056b3b",
+    "background": false
+  },
+  "Andreuzza's": {
+    "from_color": "#D70652",
+    "to_color": "#FF025E",
+    "background": false
+  },
+  "Moonwalker": {
+    "from_color": "#152331",
+    "to_color": "#000000",
+    "background": false
+  },
+  "Whinehouse": {
+    "from_color": "#f7f7f7",
+    "to_color": "#4e2020",
+    "background": false
+  },
+  "Hyper Blue": {
+    "from_color": "#59CDE9",
+    "to_color": "#0A2A88",
+    "background": false
+  },
+  "Racker": {
+    "from_color": "#EB0000",
+    "to_color": "#3300FC",
+    "background": false
+  },
+  "After the Rain": {
+    "from_color": "#ff75c3",
+    "to_color": "#9fff5b",
+    "background": false
+  },
+  "Neon Green": {
+    "from_color": "#81ff8a",
+    "to_color": "#64965e",
+    "background": false
+  },
+  "Dusty Grass": {
+    "from_color": "#d4fc79",
+    "to_color": "#96e6a1",
+    "background": false
+  }
+}

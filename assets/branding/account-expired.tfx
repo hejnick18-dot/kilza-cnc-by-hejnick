@@ -1,0 +1,21 @@
+<<$clear>>
+[43;30;1m
+
+
+
+
+
+                                                                            
+                    ACCOUNT EXPIRED                                       
+                                                                            
+                    User: <<$user.Username>>                              
+                    Expiry: <<$user.Expiry>>                              
+                                                                            
+                    ACCESS REVOKED                                        
+                                                                            
+
+
+
+
+[0m
+<<$sleep(10000)>>

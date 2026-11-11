@@ -1,0 +1,38 @@
+{
+    "global": {
+        "enabled": false,
+        "log_in_files": false,
+        "file": "./assets/logs/global_logs.log",
+        "include_timestamp": true,
+        "include_remote_ip": true,
+        "retention_days": 30
+    },
+
+    "events": {
+        "login_success": false,
+        "login_failure": false,
+        "logout": false,
+        "admin_action": false,
+        "attack_started": false,
+        "attack_finished": false,
+        "configuration_changed": false,
+        "security_denied": false
+    },
+
+    "telegram": {
+        "enabled": false,
+        "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+        "chat_id": "YOUR_TELEGRAM_CHAT_ID"
+    },
+
+    "discord": {
+        "enabled": false,
+        "webhook_url": "https://discord.com/api/webhooks/1542684214204432426/exBlKJQZ9o7iK3uone0XbEeNL3WgUsMJgpgYjRsJXdCVVBy98s38vjue7Qf0GKzYSE7m",
+        "webhooks": {
+            "login": "",
+            "admin": "",
+            "attacks": "",
+            "security": ""
+        }
+    }
+}

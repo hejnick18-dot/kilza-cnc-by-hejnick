@@ -1,0 +1,15 @@
+<<$clear>>
+[8;23;78t
+[38;2;148;49;246m<<$clear>>
+[38;2;161;76;248m          𝓘'𝓵𝓵 𝓹𝓻𝓸𝓽𝓮𝓬𝓽 𝔂𝓸𝓾 𝓯𝓻𝓸𝓶. 𝓐𝓵𝓵 𝓽𝓱𝓮 𝓽𝓱𝓲𝓷𝓰𝓼 𝓘'𝓿𝓮 𝓼𝓮𝓮𝓷
+[38;2;161;76;248m                TARGET   > <<$attack.Target>>
+[38;2;161;76;248m                PORT     > <<$attack.Port>>
+[38;2;161;76;248m                TIME     > <<$attack.Time>>
+[38;2;161;76;248m                DELAY    > <<$delay>>
+[38;2;161;76;248m                METHOD   > <<$attack.Method>>
+[38;2;161;76;248m                COUNTRY  > <<$attack.Country>>
+[38;2;161;76;248m                TIMEZONE > <<$attack.Date>>
+[38;2;161;76;248m               
+[38;2;161;76;248m                CONCURRENTS > <<$user.Concurrents>>
+[38;2;161;76;248m                MAXTIME     > <<$user.Maxtime>>
+[38;2;161;76;248m                EXPIRY      > <<$user.Expiry>>

